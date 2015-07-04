@@ -1,0 +1,28 @@
+INIT
+=======
+
+Tool to initialise a formated DESFire card.
+
+Parameter:
+  - PEM-file with private-key
+
+
+
+RESET
+=======
+
+Reset a used card.
+Sets keys to default.
+
+Parameter:
+  - None
+
+
+
+DELETE
+=======
+
+Delete files and application.
+
+Parameter:
+  - None
